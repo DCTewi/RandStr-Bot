@@ -54,7 +54,7 @@ Owner: [@dctewi@niu.moe](https://niu.moe/@dctewi)
 
 ## 自定义
 
-- 你应该修改 `./bot.py` 中的主循环(Main Loop)中的代码来自定义嘟文内容.
+- 你**应该**修改 `./bot.py` 中的主循环(Main Loop)中的代码来自定义嘟文内容.
 
 - 你可以通过这种方式在Linux VPS上静默运行脚本（一种选择）:
 
